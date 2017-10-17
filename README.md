@@ -5,7 +5,7 @@ This is a simple program for cross compiling raspberry pi.
 # Setup Cross Compiler
 This script will clone cross compiler toolchain for pi.
 ```
-$ ./setupToolchain.sh
+$ sudo ./setupToolchain.sh
 ```
 
 # Build
